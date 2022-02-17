@@ -2,8 +2,8 @@ body {
   background-image: url(img/bg.png);
 }
 
-#footer {
-  background-color: #e2edff;
+#footer a {
+  color: #e2edff;
 }
 
 .container {
