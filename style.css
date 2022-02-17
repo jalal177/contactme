@@ -1,8 +1,8 @@
-/* body {
-  height: 100vh;
-} */
+body {
+  background-image: url(img/bg.png);
+}
+
 #footer {
-  padding-bottom: 100px;
   background-color: #e2edff;
 }
 
